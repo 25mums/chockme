@@ -1,1 +1,28 @@
-sadasd
+//THIS LINES BELOW ARE JAVA CODES.
+
+public class Holy {
+
+    public static void main (String args[]){
+        //Variables
+        int FavNum;
+        short sxteen;
+        long sxtifor;
+        char unicd;
+        boolean ok;
+
+        //Show Vars
+        FavNum = 78627;
+        sxteen = 893;
+        sxtifor = 939123121;
+        unicd = '★';
+        ok = true;
+
+        System.out.println("This is an example of a 16 bit value, or called short: " + sxteen);
+        System.out.println("This is an example of a 32 bit value, or called short: " + FavNum);
+        System.out.println("This is an example of a 64 bit value, or called long: " + sxtifor);
+        System.out.println("This is an example of a Unicode: " + unicd);
+        System.out.println("The Boolean says: " + ok);
+
+
+    }
+}
